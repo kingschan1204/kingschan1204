@@ -1,4 +1,5 @@
 ## Hi everyone 👋
+> i'm kings.chan an average backend developer . i often use `java`,`golang`,`C#`,`k8s`,`docker`,`linux shell`
 
 <!--
 **kingschan1204/kingschan1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
